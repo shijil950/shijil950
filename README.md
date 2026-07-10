@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Muhammed Shijil N K 👋
 
-<!--
-**shijil950/shijil950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Frontend Web Developer
+Passionate frontend developer focused on building responsive, clean, and user-friendly web applications. I love bringing designs to life using modern web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+Here are some of the technologies I work with:
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Libraries/Frameworks:** React.js
+- **Design:** Responsive Web Design, Bootstrap / Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🚀 Featured Projects
+Check out some of my live projects below:
+- 🌐 [Zonex Edu] (https://shijil950.github.io/zonex-edu) - An educational web platform.
+- 🌐 [Portfolio React] (https://portfolio-react-omega-rosy.vercel.app/) - My personal portfolio built with React.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Email:** your.email@example.com
