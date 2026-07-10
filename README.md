@@ -23,5 +23,5 @@ Check out some of my live projects below:
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** your.email@example.com
+- **LinkedIn:** linkedin.com/in/muhammed-shijil
+- **Email:** shijilnkmuhammed@gmail.com
