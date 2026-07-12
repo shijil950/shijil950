@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 
 ### 🚀 Featured Projects
 Check out some of my live projects below:
-- 🌐 [Zonex Edu] (https://shijil950.github.io/zonex-edu) - An educational web platform.
+- 🌐 [Zonex Edu] (https://zonex-eduhub.netlify.app/) - An educational web platform.
 - 🌐 [Portfolio React] (https://portfolio-react-omega-rosy.vercel.app/) - My personal portfolio built with React.
 
 ---
