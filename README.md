@@ -14,14 +14,13 @@ Here are some of the technologies I work with:
 - **Tools:** Git, GitHub, VS Code
 
 ---
+## 🚀 Featured Projects
 
-### 🚀 Featured Projects
 Check out some of my live projects below:
-- 🌐 [Zonex Edu] (https://zonex-eduhub.netlify.app/) - An educational web platform.
-- 
--🌐[E commerial platform] (https://zendoweb.netlify.app/)
-- 🌐 [Portfolio React] (https://portfolio-react-omega-rosy.vercel.app/) - My personal portfolio built with React.
 
+* 🌐 [Zonex Edu](https://zonex-eduhub.netlify.app/) - An educational web platform.
+* 🌐 [Zendo - E-Commerce Platform](https://zendoweb.netlify.app/) - A modern React e-commerce web app.
+* 🌐 [Portfolio React](https://portfolio-react-omega-rosy.vercel.app/) - My personal portfolio built with React.
 ---
 
 ### 📫 Connect with Me
