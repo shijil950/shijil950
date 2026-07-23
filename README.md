@@ -21,6 +21,7 @@ Check out some of my live projects below:
 * 🌐 [Zonex Edu](https://zonex-eduhub.netlify.app/) - An educational web platform.
 * 🌐 [Zendo - E-Commerce Platform](https://zendoweb.netlify.app/) - A modern React e-commerce web app.
 * 🌐 [Portfolio React](https://portfolio-react-omega-rosy.vercel.app/) - My personal portfolio built with React.
+* 🌐 [Mobile ShopEx](https://mobileshopex.netlify.app/) - An example mobile platform showcasing modern gadgets and accessories.
 ---
 
 ### 📫 Connect with Me
