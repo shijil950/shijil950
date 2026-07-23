@@ -18,7 +18,7 @@ Here are some of the technologies I work with:
 ### 🚀 Featured Projects
 Check out some of my live projects below:
 - 🌐 [Zonex Edu] (https://zonex-eduhub.netlify.app/) - An educational web platform.
--[E commerial platform] (https://zendoweb.netlify.app/)
+-🌐[E commerial platform] (https://zendoweb.netlify.app/)
 - 🌐 [Portfolio React] (https://portfolio-react-omega-rosy.vercel.app/) - My personal portfolio built with React.
 
 ---
